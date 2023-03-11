@@ -33,4 +33,4 @@ Este proyecto es un ejemplo básico de cómo utilizar APIs para extraer y proces
 ### Imágenes
 La siguiente es una imagen de cómo se podría ver un Dashboard en Grafana recibiendo la información del clima de San José, Costa Rica: 
 
-![Dashboard en Grafana mostrando el clima de San José, Costa Rica](https://github.com/rojas-erick-2704/proyectos/blob/98dcfcf42ae94af674848354a635645f2dd9f09b/ETL_Weather/Imagenes/DashboardWeatherSanJose.PNG)
+![Dashboard en Grafana mostrando el clima de San José, Costa Rica](https://github.com/rojas-erick-2704/portafolio-proyectos/blob/0f98cc3f89305cae22b0c8a343a6a8556e51f72b/ETL_Weather/Imagenes/DashboardWeatherSanJose.PNG)
